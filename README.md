@@ -9,7 +9,7 @@ Welcome to the React Quiz Game! This is a simple quiz game built using React. Te
 
 - Responsive Web based game
 - contributing - Sk Miraj
-- [License-MIT](#license)
+- [License-MIT](https://github.com/skmirajulislam/QuizGame/blob/master/LICENSE)
 
 ## Demo
 
